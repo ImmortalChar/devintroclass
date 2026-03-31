@@ -9,6 +9,8 @@ git push: 수정내용을 repository에 반영
 html 태그:
 h1, h2... :헤드 태그 (글자 크기가 큼)
 p : 텍스트
-
+img: 이미지 달기, 추가로 <> 안에 다음 사용 필요함
+src = "파일명" 같은 폴더에 있으면 경로 설정이 필요 없지만 그게 아니면 경로 설정 필요
+width = "" / height = "" 원래 크기로 쓸거면 무관하나 원하는 사이즈로 조정할 경우 필요
 
 https://immortalchar-devintroclass.vercel.app/
