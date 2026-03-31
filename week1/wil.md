@@ -7,7 +7,8 @@ git commit -m "메세지" : 이 수정에 대해서 코멘트 달기
 git push: 수정내용을 repository에 반영
 단, 이때 repository에만 있고 폴더에 없는 파일의 경우 삭제되는 것이 아님!!
 html 태그:
-<h1><h2>... :헤드 태그 (글자 크기가 큼)
-<p> : 텍스트
+h1, h2... :헤드 태그 (글자 크기가 큼)
+p : 텍스트
+
 
 https://immortalchar-devintroclass.vercel.app/
