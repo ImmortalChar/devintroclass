@@ -26,4 +26,4 @@ padding
 
 이런 식으로 활용하면 된다!
 
-[내 홈페이지 링크](https://immortalchar-devintroclass.vercel.app/)
+[내 홈페이지 링크](https://vercel.com/immortalchars-projects/devintroclass)
